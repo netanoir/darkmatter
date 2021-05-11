@@ -72,12 +72,13 @@ small {
 }
 
 .emphasize {
-  font-family: courier-prime, monospace;
+  font-family: courier-prime, Courier, monospace;
   font-weight: 400;
+  font-style: italic;
 }
 
 .bold {
-  font-family: courier-prime, monospace;
+  font-family: courier-prime, Courier, monospace;
   font-weight: 700;
   font-style: normal;
   text-transform: uppercase;
