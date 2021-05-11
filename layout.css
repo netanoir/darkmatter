@@ -6,7 +6,7 @@ body {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: courier-prime, monospace;
+  font-family: courier-prime, Courier, monospace;
   font-weight: 400;
   font-style: normal;
   background: black;
