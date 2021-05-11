@@ -3,7 +3,7 @@
 
 A storybook for children and adults about computational history and technology.
 
-[darkmatter.netabomani.com](http://darkmatter.netabomani.com)
+[netabomani.com/darkmatter](http://.netabomani.com/darkmatter)
 
 Compiler: Neta Bomani
 Sound engineer: Khari Lucas
